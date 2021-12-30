@@ -1,0 +1,15 @@
+.entry-container {
+  display: flex;
+  gap: 15px;
+  margin: 2rem 2rem;
+}
+
+.location-img {
+  max-width: 225px;
+  height: 200px;
+}
+
+hr {
+  margin: 0rem 2rem;
+  border-color: rgba(228, 228, 228, 0.144);
+}

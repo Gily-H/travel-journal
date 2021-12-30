@@ -1,0 +1,32 @@
+.details-container {
+  padding: 1rem 0rem;
+}
+
+.fa-map-marker-alt {
+  color: rgb(255, 61, 61);
+}
+
+.location {
+  margin-right: 5px;
+}
+
+.map-link {
+  margin-left: 10px;
+}
+
+.map-link > a {
+  color: grey;
+}
+
+.title {
+  margin-top: 10px;
+}
+
+.travel-dates {
+  margin-top: 1.6rem;
+  font-weight: bold;
+}
+
+.description {
+  margin-top: 0.7rem;
+}
